@@ -11,3 +11,4 @@ Urls:
 - https://github.com/LiteOS/LiteOS (LiteOS seems what this cameras use)
 - FCC documentation https://fccid.io/2AT5D-ZS-GX5/
 - https://apis-eu-frankfurt.meari.com.cn/ then endpoint that the mobile app uses (and it seems it runs https://openresty.org/en/)
+- http://www.o.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3516EV200.pdf image sensor used
